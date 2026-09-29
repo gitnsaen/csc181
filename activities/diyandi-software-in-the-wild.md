@@ -1,90 +1,76 @@
 # Software in the Wild: Improving the Diyandi Experience Through Software
 
-> **Name:** [Write your full name]  
-> **Section:** [Write your section]  
-> **Date submitted:** [YYYY-MM-DD]
+> **Name:** Sean Jric B. Gabor
+> **Section:** CS3B
+> **Date submitted:** 2026-09-30
 
 ---
 
 ## 1. User group
 
-**Who are you designing for?**  
-[Identify one specific group connected to Diyandi Festival sa Iligan. Examples: local residents, students, visitors, tourists, event attendees, performers, vendors, event organizers, safety personnel, senior citizens, persons with disabilities, parents, or local businesses.]
+**Who are you designing for?**
+Dance troupes and performance groups in Iligan City preparing for Diyandi Festival events such as street dancing, cultural shows, and competitions.
 
-**Why might this group need support during Diyandi?**  
-[Briefly explain the group’s situation, goals, or needs.]
+**Why might this group need support during Diyandi?**
+During the Diyandi season these groups rehearse for weeks with many members, needing a suitable place.
 
 ---
 
 ## 2. Situation or need
 
-**What is this group trying to do during Diyandi?**  
-[Examples: Find events, receive schedule updates, locate a venue, navigate traffic, identify accessible facilities, promote products, coordinate performers, or report an issue.]
+**What is this group trying to do during Diyandi?**
+The group needs a practice venue large enough for the whole troupe, covered against rain, and where loud music will not disturb residents. They also need to know when a space is free, if a permit is needed, and whom to contact.
 
 ---
 
 ## 3. Problem or inconvenience
 
-**What may make this task difficult, confusing, unsafe, slow, or inconvenient?**  
-[Describe one concrete problem. You may use personal experience, general knowledge, public information, or a reasonable assumption. If it is an assumption, state that it is an assumption.]
+**What may make this task difficult, confusing, unsafe, slow, or inconvenient?**
+As a performer, I know from experience that Iligan has few spaces that fit these needs and no reliable way to know which are available. Groups rely on word of mouth, or arrive to find the venue occupied, since there is no shared schedule. It is also unclear if a permit is needed or whom to ask, and this multiplies during Diyandi when many groups rehearse at once.
 
 ---
 
 ## 4. Proposed digital solution
 
-**What digital tool would you propose?**  
-[Describe a mobile application, website, kiosk, dashboard, notification service, digital map, registration system, or another digital tool.]
+**What digital tool would you propose?**
+A mobile-friendly Practice Space Finder for Iligan performers. Venue owners, schools, and covered courts list their space with its size, cover from rain, loud-music rules, permit requirements, contact person, and rate. Groups see real availability and reserve a slot, so groups no longer clash by luck. Open-air listings carry a weather note, and each venue shows a suggested jeepney route, since dancers come from different parts of Iligan.
 
-**How would it help the intended users?**  
-[Explain how the solution responds to the problem you identified.]
+**How would it help the intended users?**
+Instead of guessing and traveling, a group sees which spaces are truly free and books one fitting its size, budget, needs, and arrive efficiently.
 
 ---
 
 ## 5. Things users can do
 
-Describe **two specific actions** that users could perform using your proposed system.
-
-1. [Write the first user action here.]
-2. [Write the second user action here.]
+1. A dance group can search venues by date, size, cover from rain, noise rules, and rate, then reserve a slot and see the contact person and jeepney directions.
+2. A venue owner can list a space with its rate, rules, and permit requirements, and mark taken dates so listings stay accurate.
 
 ---
 
 ## 6. Important qualities
 
-Identify **two qualities** that would make your proposed system useful. You may consider whether it should be easy to use, fast, reliable, safe, private, accessible, multilingual, low-data, clear, or available during high demand.
+### Quality 1: Reliable, up-to-date availability
 
-### Quality 1: [Write a quality]
+**Why does this matter to users?**
+The core problem is arriving to find the space already occupied, so the system is only trustworthy if bookings reflect reality, especially during peak Diyandi weeks.
 
-**Why does this matter to users?**  
-[Explain why this quality is important for your selected user group and situation.]
+### Quality 2: Low-data, easy to use
 
-### Quality 2: [Write a quality]
-
-**Why does this matter to users?**  
-[Explain why this quality is important for your selected user group and situation.]
+**Why does this matter to users?**
+Many performers have budget phones and limited data, so light pages and simple lists keep the system usable for everyone.
 
 ---
 
 ## 7. How to tell whether the solution helped
 
-How could you determine whether your proposed solution actually helped users?
-
-[Examples: Ask users for feedback; observe whether users can complete a task more easily; compare the number of errors or complaints; measure task-completion time; check whether fewer people miss event updates; track whether users can locate venues successfully.]
+Pilot the system with local groups and venue owners during festival season and gather feedback. Compare how long a group takes to secure a slot before and after, count how often someone still arrives to a taken space, and check how many reservations lead to actual rehearsals.
 
 ---
 
 ## 8. Screenshot or reference
 
-You may include **one screenshot** or reference image only if it does not contain personal, confidential, or sensitive information.
-
-> Do not include passwords, private messages, account numbers, grades, addresses, personal information, or other confidential content.
-
-<!-- Example Markdown image syntax:
-![Brief description of screenshot](path/to/image.png)
--->
-
-**External sources used, if any:**  
-[Add links or citations here. If you did not use any external sources, write: None.]
+**External sources used, if any:**
+None.
 
 ---
 
@@ -93,20 +79,18 @@ You may include **one screenshot** or reference image only if it does not contai
 Select **one** option below and complete the applicable details.
 
 - [ ] **No AI tools used.** I did not use any generative AI tool in preparing this submission.
+- [x] **AI tools used.** I used the following AI tool(s): ChatGPT
 
-- [ ] **AI tools used.** I used the following AI tool(s): [Write tool name(s), e.g., ChatGPT, Gemini, Copilot].
+**Purpose of use:**
+I used ChatGPT to organize my own idea into the structure required by the activity template, tighten the wording, and check that the submission stayed within the 250-400 word limit. The user group, the problem, and the solution concept all came from my own experience as a dancer in Iligan City.
 
-  **Purpose of use:**  
-  [Describe specifically how you used the tool. Examples: brainstorming possible user groups; clarifying an idea; checking grammar; generating possible questions to consider.]
+**How I reviewed the output:**
+I read every section and checked it against my actual experience before accepting it. I removed or reframed details that did not match how things really work for performers here, chose which features to emphasize, and kept only content I can explain and defend in person.
 
-  **How I reviewed the output:**  
-  [Explain how you checked, revised, verified, or adapted the AI-generated output.]
-
-  **Prompt(s) or summary of interaction:**  
-  [Paste the main prompt(s) used, provide a link to the shared conversation if available, or summarize the interaction clearly enough for the instructor to understand the assistance received.]
+**Prompt(s) or summary of interaction:**
+I described my experience that dance groups in Iligan struggle to find practice venues during Diyandi (too few suitable spaces, noise restrictions near residences, covered versus open-air venues, groups clashing over the same space, unclear permit requirements), and asked ChatGPT to draft my submission following the provided template. I then asked for revisions for grammar checking and to keep the answer text within the word limit.
 
 > I understand that I remain responsible for the accuracy, originality, and quality of this submission. I confirm that I reviewed and revised any AI-generated content and can explain all ideas submitted under my name.
-
 
 ---
 
@@ -114,4 +98,4 @@ Select **one** option below and complete the applicable details.
 
 I confirm that this work is based primarily on my own observation, experience, and reasoning. Any external sources or tools used have been acknowledged above.
 
-**Name:** [Write your full name]
+**Name:** Sean Jric B. Gabor

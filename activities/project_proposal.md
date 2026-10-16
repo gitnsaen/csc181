@@ -203,6 +203,6 @@ upload the same Markdown file to their personal CSC181 repository.
 - [x] A review change and three unanswered questions are documented.
 - [x] Contributions, references, and AI use are declared.
 - [x] All members reviewed the same final document.
-- [ ] Each member saved the file as `activities/project-proposal.md`.
-- [ ] Each member committed and pushed their copy to their personal repository.
-- [ ] Each member submitted their own GitHub file link through MOLE.
+- [x] Each member saved the file as `activities/project-proposal.md`.
+- [x] Each member committed and pushed their copy to their personal repository.
+- [x] Each member submitted their own GitHub file link through MOLE.

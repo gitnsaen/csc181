@@ -1,8 +1,3 @@
----
-title: project_proposal.md
-
----
-
 # Team Brainstorming and Preliminary Project Proposal
 
 ## Team Information

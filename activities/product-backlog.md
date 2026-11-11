@@ -491,6 +491,6 @@ We confirm that this document reflects our team's agreed-upon product backlog. A
 - [x] The team review and the stakeholder walk-through are recorded.
 - [x] Contributions, references, and AI use are declared.
 - [x] All members reviewed the same final document.
-- [ ] Each member saved the file as `activities/product-backlog.md`, with images in `activities/backlog-images/`.
-- [ ] Each member committed and pushed their copy to their personal repository.
-- [ ] Each member submitted their own GitHub file link through MOLE before November 11, 2026 23:59:59.
+- [x] Each member saved the file as `activities/product-backlog.md`, with images in `activities/backlog-images/`.
+- [x] Each member committed and pushed their copy to their personal repository.
+- [x] Each member submitted their own GitHub file link through MOLE before November 11, 2026 23:59:59.

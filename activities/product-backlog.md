@@ -109,29 +109,6 @@ Given the catalog contains listings in Costumes with sizes S and M only
 When a student borrower selects the category "Costumes" and size "XL"
 Then the system displays "No listings match your selected filters" and keeps the filter sidebar visible
 ```
-
-Acceptance criteria:
-
-- [ ] Registration requires an email ending in "@g.msuiit.edu.ph".
-- [ ] Sends a verification link to the provided email.
-- [ ] (unhappy) If a user enters a generic email (like @gmail.com), the system blocks registration.
-
-Scenario 1: Normal case
-
-```gherkin
-Given a new student borrower is on the registration page
-When they enter "student@g.msuiit.edu.ph" and submit
-Then the system creates a pending account and emails a verification link
-```
-
-Scenario 2: Unhappy path
-
-```gherkin
-Given a new student borrower is on the registration page
-When they enter "student@yahoo.com" and submit
-Then the system blocks registration and displays "Only MSU-IIT institutional emails are allowed."
-```
-
 ### US-02: Search listings by keyword (Must-have)
 
 Acceptance criteria:
